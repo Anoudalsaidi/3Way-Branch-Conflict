@@ -1,5 +1,6 @@
 Product A: $100
-vip-pricing
-Product B: $180
+Product B: $120
+Product C: $250
 
 Product C: $300
+
